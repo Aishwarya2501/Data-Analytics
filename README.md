@@ -2,6 +2,8 @@
 ## Forecasting Global Surface Temperature 
 ## ARIMA ERROR - 2.264%
 ## SARIMA ERROR - 4.643%
+Here is the link for the dataset:
+https://www.kaggle.com/berkeleyearth/climate-change-earth-surface-temperature-data?select=GlobalLandTemperaturesByMajorCity.csv
 
 - The data for the Average Global Surface Temperature time series is analyzed and forecasted in this research.
 - There are two types of ARIMA models: basic ARIMA and trend based ARIMA. We utilized simple ARIMA to forecast the world average temperature.
